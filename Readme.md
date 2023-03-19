@@ -19,7 +19,7 @@ Gestion des version
 -> branch
 -> add
 -> commit
--> push
+-> push : envoyer le code vers le depôt distant
 -> pull / pull-request
 -> merge / rebase
 -> clone
